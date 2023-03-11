@@ -1,0 +1,17 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "description": "This project contains basic crud operations using ExpressJs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "Vivek Manavalan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.21",
+    "pg": "^8.10.0"
+  }
+}
